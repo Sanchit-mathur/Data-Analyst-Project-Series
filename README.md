@@ -30,6 +30,9 @@ Based on the visualizations, patterns and trends are identified, including disti
 
 Through data visualization, valuable insights into the Iris species' characteristics are obtained. Sepal features appear particularly useful for Setosa distinction, while Petal features exhibit more variability within Versicolor and Virginica.
 
+![image](https://github.com/Sanchit-mathur/Data-Analyst-Project-Series/assets/113260682/dd9082f0-3939-4749-b018-32cb8bb13df5)
+
+
 # Data Preparation Using Python: Loading the Weather Dataset
 
 Data Loading:
