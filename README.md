@@ -82,3 +82,7 @@ Conduct trend analysis to detect long-term patterns or seasonal variations in we
 Perform geographical analysis to examine spatial variations in weather conditions.
 Apply forecasting techniques to predict future weather trends based on historical data.
 
+
+![image](https://github.com/Sanchit-mathur/Data-Analyst-Project-Series/assets/113260682/4b364b9e-bdfa-473e-bf17-27a8baa89ea0)
+
+
